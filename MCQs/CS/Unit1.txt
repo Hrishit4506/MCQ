@@ -1,0 +1,349 @@
+1. **What is the origin of the word 'communication'?**
+   - a) Greek
+   - b) Latin
+   - c) French
+   - d) English
+   - **Answer:** b) Latin
+
+2. **Which element of communication is responsible for converting thoughts into a message?**
+   - a) Receiver
+   - b) Encoding
+   - c) Decoding
+   - d) Feedback
+   - **Answer:** b) Encoding
+
+3. **Which of the following is a non-verbal communication channel?**
+   - a) Email
+   - b) Text message
+   - c) Body language
+   - d) Phone call
+   - **Answer:** c) Body language
+
+4. **What does feedback in communication indicate?**
+   - a) The message was received.
+   - b) The message was ignored.
+   - c) The message was not understood.
+   - d) The message is complete.
+   - **Answer:** a) The message was received.
+
+5. **Which of the following is NOT a confounding element in communication?**
+   - a) Noise
+   - b) Encoding
+   - c) Environment
+   - d) Interpersonal variables
+   - **Answer:** b) Encoding
+
+6. **The purpose of professional communication does NOT include:**
+   - a) Persuading
+   - b) Providing instructions
+   - c) Raising morale
+   - d) Gossiping
+   - **Answer:** d) Gossiping
+
+7. **What is critical thinking in the context of communication?**
+   - a) Ignoring details
+   - b) Jumping to conclusions
+   - c) Systematic analysis of information
+   - d) Emotional response
+   - **Answer:** c) Systematic analysis of information
+
+8. **In intercultural communication, what is essential?**
+   - a) Ignoring cultural differences
+   - b) Understanding cultural norms
+   - c) Speaking only in English
+   - d) Using complex language
+   - **Answer:** b) Understanding cultural norms
+
+9. **Which of the following is a verbal barrier to communication?**
+   - a) Semantic gap
+   - b) Body language
+   - c) Noise
+   - d) Feedback
+   - **Answer:** a) Semantic gap
+
+10. **What does 'feedback' help in confirming?**
+    - a) The message was sent.
+    - b) The message was ignored.
+    - c) Correct interpretation of the message.
+    - d) The environment was suitable.
+    - **Answer:** c) Correct interpretation of the message
+
+11. **Which of the following is a key component of the communication process?**
+    - a) Noise
+    - b) Feedback
+    - c) Message
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+12. **In communication, which element is responsible for interpreting the message?**
+    - a) Sender
+    - b) Channel
+    - c) Receiver
+    - d) Feedback
+    - **Answer:** c) Receiver
+
+13. **The term used for converting symbols back into meaningful information is:**
+    - a) Encoding
+    - b) Decoding
+    - c) Channeling
+    - d) Feedback
+    - **Answer:** b) Decoding
+
+14. **Which of the following best describes 'noise' in communication?**
+    - a) It enhances the message.
+    - b) It is an unwanted interference.
+    - c) It provides feedback.
+    - d) It aids in decoding.
+    - **Answer:** b) It is an unwanted interference.
+
+15. **Which of these is NOT a role of professional communication?**
+    - a) Marketing
+    - b) Persuading
+    - c) Confusing
+    - d) Giving orders
+    - **Answer:** c) Confusing
+
+16. **Which of the following is an example of physical noise?**
+    - a) Different languages
+    - b) A loud room
+    - c) Misinterpretation
+    - d) Bias
+    - **Answer:** b) A loud room
+
+17. **What is the primary function of encoding in communication?**
+    - a) To receive the message
+    - b) To interpret the message
+    - c) To convert ideas into a message
+    - d) To provide feedback
+    - **Answer:** c) To convert ideas into a message
+
+18. **What does the 'channel' in communication refer to?**
+    - a) The content of the message
+    - b) The feedback loop
+    - c) The medium through which the message is sent
+    - d) The person receiving the message
+    - **Answer:** c) The medium through which the message is sent
+
+19. **Which of the following factors can influence the effectiveness of communication?**
+    - a) Emotional state
+    - b) Cultural background
+    - c) Language proficiency
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+20. **What is the last step in the communication process?**
+    - a) Encoding
+    - b) Feedback
+    - c) Decoding
+    - d) Channeling
+    - **Answer:** b) Feedback
+
+21. **Which of the following is NOT a type of feedback?**
+    - a) Verbal
+    - b) Non-verbal
+    - c) Imaginary
+    - d) Written
+    - **Answer:** c) Imaginary
+
+22. **Which of the following is an example of a verbal barrier to communication?**
+    - a) Misinterpretation of a message
+    - b) Physical distance
+    - c) Poor grammar
+    - d) Distractions
+    - **Answer:** c) Poor grammar
+
+23. **What is meant by 'semantic gap' in communication?**
+    - a) Miscommunication due to language differences
+    - b) A difference in understanding of the same word or phrase
+    - c) Physical distance between communicators
+    - d) A loud environment affecting the communication
+    - **Answer:** b) A difference in understanding of the same word or phrase
+
+24. **Critical thinking in communication is important for:**
+    - a) Making assumptions
+    - b) Jumping to conclusions
+    - c) Systematic analysis and evaluation of messages
+    - d) Avoiding communication
+    - **Answer:** c) Systematic analysis and evaluation of messages
+
+25. **The environment in communication refers to:**
+    - a) The location where communication occurs
+    - b) The emotional state of the communicator
+    - c) The noise level during communication
+    - d) The medium used to communicate
+    - **Answer:** a) The location where communication occurs
+
+26. **What is the key role of intercultural communication?**
+    - a) To ignore cultural differences
+    - b) To enhance understanding between people of different cultures
+    - c) To impose one culture over another
+    - d) To communicate only within one culture
+    - **Answer:** b) To enhance understanding between people of different cultures
+
+27. **What is the primary function of professional communication in decision-making?**
+    - a) To confuse others
+    - b) To gather and disseminate information
+    - c) To ignore feedback
+    - d) To manipulate outcomes
+    - **Answer:** b) To gather and disseminate information
+
+28. **Which of the following is a psychological barrier to communication?**
+    - a) Language difference
+    - b) Noise
+    - c) Anxiety
+    - d) Distance
+    - **Answer:** c) Anxiety
+
+29. **Which element of communication involves the exchange of ideas, thoughts, and feelings?**
+    - a) Noise
+    - b) Message
+    - c) Encoding
+    - d) Feedback
+    - **Answer:** b) Message
+
+30. **Which of the following is a non-verbal barrier to communication?**
+    - a) Facial expressions
+    - b) Mispronunciation
+    - c) Dialect differences
+    - d) Poor planning
+    - **Answer:** a) Facial expressions
+
+31. **What does 'emotional intelligence' in communication involve?**
+    - a) Suppressing emotions
+    - b) Ignoring others' feelings
+    - c) Understanding and managing one's own and others' emotions
+    - d) Avoiding emotional topics
+    - **Answer:** c) Understanding and managing one's own and others' emotions
+
+32. **Which of these is NOT a purpose of communication?**
+    - a) To mislead others
+    - b) To inform
+    - c) To persuade
+    - d) To build relationships
+    - **Answer:** a) To mislead others
+
+33. **Which of the following can be a confounding element in communication?**
+    - a) Noise
+    - b) Channel
+    - c) Receiver
+    - d) Message
+    - **Answer:** a) Noise
+
+34. **Which of the following is a mechanical barrier to communication?**
+    - a) Anxiety
+    - b) Physical disability
+    - c) Faulty telephone line
+    - d) Language differences
+    - **Answer:** c) Faulty telephone line
+
+35. **What is the role of emotions in effective communication?**
+    - a) To create misunderstandings
+    - b) To enhance clarity and connection
+    - c) To distract from the main message
+    - d) To control the other party
+    - **Answer:** b) To enhance clarity and connection
+
+36. **In the communication process, what does 'decoding' require from the receiver?**
+    - a) No skills
+    - b) Interpretation of the symbols used
+    - c) Creating a message
+    - d) Ignoring feedback
+    - **Answer:** b) Interpretation of the symbols used
+
+37. **What does 'professional communication' aim to achieve?**
+    - a) Miscommunication
+    - b) Organizational goals
+    - c) Personal opinions
+    - d) Misleading others
+    - **Answer:** b) Organizational goals
+
+38. **Which of the following statements is true about the 'receiver' in communication?**
+    - a) The receiver only listens.
+    - b) The receiver interprets and responds to the message.
+    - c) The receiver creates the message.
+    - d) The receiver does not influence the communication process.
+    - **Answer:** b) The receiver interprets and responds to the message.
+
+39. **The difference between general and professional communication includes:**
+    - a) Purpose and formality
+    - b) Language used
+    - c) Feedback provided
+    - d) Medium used
+    - **Answer:** a) Purpose and formality
+
+40. **Which of the following can improve intercultural communication?**
+    - a) Ignoring cultural norms
+    - b) Learning about different cultures
+    - c) Stereotyping
+    - d) Using only your native language
+    - **Answer:** b) Learning about different cultures
+
+41. **Which of the following best defines 'context' in communication?**
+    - a) The literal meaning of the message
+    - b) The environment or situation in which communication occurs
+    - c) The noise present during communication
+    - d) The emotional tone of the message
+    - **Answer:** b) The environment or situation in which communication occurs
+
+42. **Which of the following is NOT a form of non-verbal communication?**
+    - a) Body language
+    - b) Tone of voice
+    - c) Text messages
+    - d) Facial expressions
+    - **Answer:** c) Text messages
+
+43. **In which scenario is formal communication typically used?**
+    - a) Casual conversations between friends
+    - b) Business meetings and official correspondence
+    - c) Talking to family members
+    - d) Social media interactions
+    - **Answer:** b) Business meetings and official correspondence
+
+44. **Which of the following statements is true regarding informal communication?**
+    - a) It follows strict protocols.
+    - b) It is often spontaneous and casual.
+    - c) It is always written.
+    - d) It does not influence relationships.
+    - **Answer:** b) It is often spontaneous and casual.
+
+45. **The communication process is often compared to which of the following?**
+    - a) A circle, due to its continuous nature
+    - b) A straight line, with a clear beginning and end
+    - c) A triangle, due to its three main elements
+    - d) A square, representing structure
+    - **Answer:** a) A circle, due to its continuous nature
+
+46. **What role does feedback play in the communication process?**
+    - a) It is not necessary for communication.
+    - b) It allows the sender to know if the message was understood.
+    - c) It distracts from the original message.
+    - d) It is the same as the message.
+    - **Answer:** b) It allows the sender to know if the message was understood.
+
+47. **Which of the following is an example of an external barrier to communication?**
+    - a) Cultural differences
+    - b) Emotional state
+    - c) Technical issues, like a broken phone line
+    - d) Personal biases
+    - **Answer:** c) Technical issues, like a broken phone line
+
+48. **Which of the following is crucial for effective written communication?**
+    - a) Complexity and length of sentences
+    - b) Clarity and conciseness
+    - c) Use of jargon and slang
+    - d) Ambiguity in message
+    - **Answer:** b) Clarity and conciseness
+
+49. **Which of the following best describes the term 'grapevine' in organizational communication?**
+    - a) Official channels of communication
+    - b) Informal network where information is passed through word-of-mouth
+    - c) A formal report writing process
+    - d) The official newsletter of an organization
+    - **Answer:** b) Informal network where information is passed through word-of-mouth
+
+50. **The term 'cross-cultural communication' refers to:**
+    - a) Communication between people from the same culture
+    - b) Communication across different cultures
+    - c) Ignoring cultural differences
+    - d) Formal communication within an organization
+    - **Answer:** b) Communication across different cultures

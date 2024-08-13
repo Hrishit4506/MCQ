@@ -1,0 +1,359 @@
+1. **What is an algorithm?**
+   - a) A sequence of steps to solve a particular problem.
+   - b) A program written in a programming language.
+   - c) A flowchart.
+   - d) A syntax rule.
+   - **Answer:** a) A sequence of steps to solve a particular problem.
+
+2. **Which of the following is a feature of an algorithm?**
+   - a) It has an infinite number of steps.
+   - b) It is dependent on a specific programming language.
+   - c) It always produces the same output for the same input.
+   - d) It does not require a beginning or an end.
+   - **Answer:** c) It always produces the same output for the same input.
+
+3. **Which step is NOT involved in writing an algorithm?**
+   - a) Define input.
+   - b) Write code.
+   - c) Define variables.
+   - d) Output results.
+   - **Answer:** b) Write code.
+
+4. **Which of the following statements is TRUE about flowcharts?**
+   - a) Flowcharts are only used in programming.
+   - b) Flowcharts do not require any symbols.
+   - c) Flowcharts are graphical representations of algorithms.
+   - d) Flowcharts can only represent sequential operations.
+   - **Answer:** c) Flowcharts are graphical representations of algorithms.
+
+5. **Who designed the first flowchart?**
+   - a) Dennis Ritchie
+   - b) John Von Neumann
+   - c) Charles Babbage
+   - d) Al-Khowarizmi
+   - **Answer:** b) John Von Neumann
+
+6. **What symbol is commonly used in a flowchart to represent a process or action?**
+   - a) Oval
+   - b) Diamond
+   - c) Rectangle
+   - d) Parallelogram
+   - **Answer:** c) Rectangle
+
+7. **Which of the following is NOT an advantage of using algorithms?**
+   - a) It provides a step-by-step solution.
+   - b) It is independent of any programming language.
+   - c) It always runs faster than code.
+   - d) It makes debugging easier.
+   - **Answer:** c) It always runs faster than code.
+
+8. **In a flowchart, what does a diamond shape typically represent?**
+   - a) Start/End
+   - b) Input/Output
+   - c) Decision
+   - d) Process
+   - **Answer:** c) Decision
+
+9. **Which of the following is a control structure in algorithms?**
+   - a) Sequence
+   - b) Branching
+   - c) Loop
+   - d) All of the above
+   - **Answer:** d) All of the above
+
+10. **Which of the following is a step in problem-solving using algorithms?**
+    - a) Identify the problem
+    - b) Write the code first
+    - c) Ignore constraints
+    - d) Guess the solution
+    - **Answer:** a) Identify the problem
+
+### Introduction to Programming
+
+11. **What is a computer program?**
+    - a) A sequence of instructions given to a computer.
+    - b) A type of hardware.
+    - c) A collection of algorithms.
+    - d) An output device.
+    - **Answer:** a) A sequence of instructions given to a computer.
+
+12. **Which of the following languages is considered a high-level language?**
+    - a) Assembly
+    - b) Machine
+    - c) C++
+    - d) Binary
+    - **Answer:** c) C++
+
+13. **Which category does machine language fall under?**
+    - a) High-level Language
+    - b) Assembly Language
+    - c) Low-level Language
+    - d) Object-oriented Language
+    - **Answer:** c) Low-level Language
+
+14. **Which of the following statements is TRUE about assembly language?**
+    - a) It is a high-level language.
+    - b) It is not portable.
+    - c) It is easier than high-level languages.
+    - d) It does not need translation to machine code.
+    - **Answer:** b) It is not portable.
+
+15. **Which of the following is a language processor that reads and translates a complete program at once?**
+    - a) Interpreter
+    - b) Assembler
+    - c) Compiler
+    - d) Debugger
+    - **Answer:** c) Compiler
+
+16. **Which language processor translates and executes one line of code at a time?**
+    - a) Compiler
+    - b) Assembler
+    - c) Interpreter
+    - d) Loader
+    - **Answer:** c) Interpreter
+
+17. **What is the main function of an assembler?**
+    - a) To translate high-level language to machine code
+    - b) To execute code line by line
+    - c) To translate assembly language to machine code
+    - d) To debug a program
+    - **Answer:** c) To translate assembly language to machine code
+
+18. **Which of the following is a characteristic of machine language?**
+    - a) Portability
+    - b) Fast execution
+    - c) High readability
+    - d) Human-understandable code
+    - **Answer:** b) Fast execution
+
+19. **Which of the following is an example of a high-level language?**
+    - a) Python
+    - b) Assembly
+    - c) Machine language
+    - d) Binary
+    - **Answer:** a) Python
+
+20. **What is the purpose of the `#include <stdio.h>` line in a C program?**
+    - a) It defines variables.
+    - b) It includes the standard input-output library.
+    - c) It starts the main function.
+    - d) It adds comments.
+    - **Answer:** b) It includes the standard input-output library.
+
+### Structure of a C Program
+
+21. **What section of a C program contains the `main()` function?**
+    - a) Documentation section
+    - b) Link section
+    - c) Main function section
+    - d) Definition section
+    - **Answer:** c) Main function section
+
+22. **What is the purpose of the `return 0;` statement in a C program?**
+    - a) To start the program
+    - b) To include the standard library
+    - c) To terminate the main function
+    - d) To define variables
+    - **Answer:** c) To terminate the main function
+
+23. **Which part of a C program includes comments?**
+    - a) Link section
+    - b) Definition section
+    - c) Documentation section
+    - d) Main function section
+    - **Answer:** c) Documentation section
+
+24. **Which of the following is a necessary part of every C program?**
+    - a) Documentation section
+    - b) Sub-program section
+    - c) Global declaration section
+    - d) Main function section
+    - **Answer:** d) Main function section
+
+25. **What is the first line of the program used for in C?**
+    - a) Declaring variables
+    - b) Including header files
+    - c) Writing the main function
+    - d) Returning values
+    - **Answer:** b) Including header files
+
+26. **What is the role of the declaration part in the main function section?**
+    - a) To include header files
+    - b) To declare variables used in the program
+    - c) To execute logic
+    - d) To terminate the function
+    - **Answer:** b) To declare variables used in the program
+
+27. **Which of the following is NOT a type of variable declaration in C?**
+    - a) Local variable declaration
+    - b) Global variable declaration
+    - c) Function variable declaration
+    - d) Temporary variable declaration
+    - **Answer:** d) Temporary variable declaration
+
+28. **What is the function of the global declaration section in a C program?**
+    - a) To declare variables used only inside a function
+    - b) To declare variables used across multiple functions
+    - c) To execute logic
+    - d) To return a value
+    - **Answer:** b) To declare variables used across multiple functions
+
+29. **What symbol is used to comment in C programming?**
+    - a) //
+    - b) ##
+    - c) **
+    - d) %%
+    - **Answer:** a) //
+
+30. **Which of the following is the correct syntax for printing "Hello, World!" in C?**
+    - a) `print("Hello, World!");`
+    - b) `console.log("Hello, World!");`
+    - c) `printf("Hello, World! \n");`
+    - d) `System.out.println("Hello, World!");`
+    - **Answer:** c) `printf("Hello, World! \n");`
+
+### Control Structures in Algorithms
+
+31. **What does the sequence control structure in an algorithm signify?**
+    - a) Decision making
+    - b) Repetition
+    - c) Step-by-step execution
+    - d) Random execution
+    - **Answer:** c) Step-by-step execution
+
+32. **What is a branching control structure commonly represented by in a flowchart?**
+    - a) Rectangle
+    - b) Diamond
+    - c) Oval
+    - d) Circle
+    - **Answer
+
+:** b) Diamond
+
+33. **Which of the following is NOT an example of a looping control structure?**
+    - a) `for`
+    - b) `while`
+    - c) `switch`
+    - d) `do-while`
+    - **Answer:** c) `switch`
+
+34. **What is the main purpose of a loop in an algorithm?**
+    - a) To execute a sequence once
+    - b) To make decisions
+    - c) To repeat a sequence of steps multiple times
+    - d) To end the program
+    - **Answer:** c) To repeat a sequence of steps multiple times
+
+35. **Which control structure would you use to execute a set of instructions based on a condition?**
+    - a) Sequence
+    - b) Branching
+    - c) Loop
+    - d) None of the above
+    - **Answer:** b) Branching
+
+36. **What kind of loop is executed at least once, regardless of the condition?**
+    - a) `for` loop
+    - b) `while` loop
+    - c) `do-while` loop
+    - d) Infinite loop
+    - **Answer:** c) `do-while` loop
+
+37. **Which of the following control structures is best used for iterating a known number of times?**
+    - a) `if` statement
+    - b) `for` loop
+    - c) `while` loop
+    - d) `do-while` loop
+    - **Answer:** b) `for` loop
+
+38. **Which statement allows for multiple branches in a C program?**
+    - a) `if`
+    - b) `else`
+    - c) `switch`
+    - d) `while`
+    - **Answer:** c) `switch`
+
+39. **What keyword is used to skip the rest of the loop iteration and move to the next iteration in C?**
+    - a) `break`
+    - b) `continue`
+    - c) `goto`
+    - d) `return`
+    - **Answer:** b) `continue`
+
+40. **What is the correct syntax for an `if-else` statement in C?**
+    - a) `if (condition) { statements } else { statements }`
+    - b) `if condition { statements } else { statements }`
+    - c) `if (condition) { statements } else (condition) { statements }`
+    - d) `if { condition } else { statements }`
+    - **Answer:** a) `if (condition) { statements } else { statements }`
+
+### Arrays and Functions in C
+
+41. **What is an array?**
+    - a) A single variable that can store multiple values of different types.
+    - b) A single variable that can store multiple values of the same type.
+    - c) A function that can return multiple values.
+    - d) A structure that can hold multiple functions.
+    - **Answer:** b) A single variable that can store multiple values of the same type.
+
+42. **What is the index of the first element in an array in C?**
+    - a) 0
+    - b) 1
+    - c) -1
+    - d) Depends on the array size
+    - **Answer:** a) 0
+
+43. **Which of the following is a correct way to declare an array of 10 integers in C?**
+    - a) `int arr[10];`
+    - b) `int arr[10] = {0};`
+    - c) `int arr[] = 10;`
+    - d) `int arr[10] = {};`
+    - **Answer:** a) `int arr[10];`
+
+44. **Which of the following can be passed to a function in C?**
+    - a) Variables
+    - b) Arrays
+    - c) Pointers
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+45. **Which function in C is used to calculate the length of a string?**
+    - a) `strlen()`
+    - b) `strcpy()`
+    - c) `strcmp()`
+    - d) `strcat()`
+    - **Answer:** a) `strlen()`
+
+46. **Which of the following is TRUE about function declarations in C?**
+    - a) Functions can only return one value.
+    - b) Functions cannot take arrays as arguments.
+    - c) Functions can return multiple values.
+    - d) Functions must return an integer.
+    - **Answer:** a) Functions can only return one value.
+
+47. **Which of the following is NOT a valid function return type in C?**
+    - a) `int`
+    - b) `void`
+    - c) `float`
+    - d) `array`
+    - **Answer:** d) `array`
+
+48. **How do you pass an array to a function in C?**
+    - a) Pass the array directly.
+    - b) Pass the address of the first element.
+    - c) Pass the array size.
+    - d) Pass the array as a string.
+    - **Answer:** b) Pass the address of the first element.
+
+49. **Which keyword is used to return a value from a function in C?**
+    - a) `return`
+    - b) `exit`
+    - c) `end`
+    - d) `break`
+    - **Answer:** a) `return`
+
+50. **Which of the following is the correct syntax for declaring a function in C?**
+    - a) `returnType functionName(parameters);`
+    - b) `functionName returnType(parameters);`
+    - c) `returnType functionName[parameters];`
+    - d) `parameters functionName(returnType);`
+    - **Answer:** a) `returnType functionName(parameters);`

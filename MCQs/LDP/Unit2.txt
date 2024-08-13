@@ -1,0 +1,756 @@
+1. **What is a computer?**
+   - a) A device that can process data under the control of a program.
+   - b) A machine that only stores data.
+   - c) A tool for manual calculations.
+   - d) A device used only for entertainment.
+   - **Answer:** a) A device that can process data under the control of a program.
+
+2. **Which of the following is NOT a type of programming language?**
+   - a) Machine Language
+   - b) Assembly Language
+   - c) Higher Level Language
+   - d) Network Language
+   - **Answer:** d) Network Language
+
+3. **What is the main function in a C program?**
+   - a) The function that starts the execution of the program.
+   - b) A secondary function that handles errors.
+   - c) A function that compiles the program.
+   - d) A function that runs only at the end of the program.
+   - **Answer:** a) The function that starts the execution of the program.
+
+4. **Which of the following is true about machine language?**
+   - a) It is a high-level language.
+   - b) It uses symbols like ADD, SUB, etc.
+   - c) It is directly executed by the CPU.
+   - d) It is easy to debug and write.
+   - **Answer:** c) It is directly executed by the CPU.
+
+5. **Which programming language was developed by Dennis Ritchie in 1972?**
+   - a) Java
+   - b) C
+   - c) Python
+   - d) C++
+   - **Answer:** b) C
+
+6. **What is the role of a compiler in programming?**
+   - a) To directly execute high-level code.
+   - b) To convert machine code into high-level language.
+   - c) To translate the entire high-level code into machine language at once.
+   - d) To check syntax errors while writing the code.
+   - **Answer:** c) To translate the entire high-level code into machine language at once.
+
+7. **Which data type in C can store decimal values?**
+   - a) int
+   - b) char
+   - c) float
+   - d) double
+   - **Answer:** c) float
+
+8. **Which keyword is used to declare a character data type in C?**
+   - a) char
+   - b) int
+   - c) float
+   - d) double
+   - **Answer:** a) char
+
+9. **What does the sizeof() function do in C?**
+   - a) It calculates the number of variables.
+   - b) It finds the memory space allocated for a data type.
+   - c) It outputs the value of a variable.
+   - d) It measures the execution time of a program.
+   - **Answer:** b) It finds the memory space allocated for a data type.
+
+10. **Which of the following is a valid variable name in C?**
+    - a) int 2hello;
+    - b) int hello world;
+    - c) int _value1;
+    - d) int float;
+    - **Answer:** c) int _value1;
+
+11. **Which of the following is a looping structure in C?**
+    - a) for
+    - b) if
+    - c) switch
+    - d) case
+    - **Answer:** a) for
+
+12. **Which operator is used to access the value stored in a pointer variable?**
+    - a) &
+    - b) *
+    - c) %
+    - d) #
+    - **Answer:** b) *
+
+13. **In C programming, which symbol is used to comment a single line?**
+    - a) //
+    - b) /* */
+    - c) #
+    - d) '
+    - **Answer:** a) //
+
+14. **What is the output of the following code snippet?**
+
+    ```
+    int x = 5;
+    printf("%d", x++);
+    ```
+    - a) 4
+    - b) 5
+    - c) 6
+    - d) Compilation Error
+    - **Answer:** b) 5
+
+15. **Which of the following is a correct way to declare an array in C?**
+    - a) int arr[10];
+    - b) array arr[10];
+    - c) int[10] arr;
+    - d) arr[10] int;
+    - **Answer:** a) int arr[10];
+
+16. **Which of the following is used to terminate a loop in C?**
+    - a) break
+    - b) exit
+    - c) stop
+    - d) end
+    - **Answer:** a) break
+
+17. **Which keyword is used to define a constant in C?**
+    - a) const
+    - b) final
+    - c) static
+    - d) define
+    - **Answer:** a) const
+
+18. **What is the default value of a local variable in C?**
+    - a) 0
+    - b) Garbage value
+    - c) NULL
+    - d) -1
+    - **Answer:** b) Garbage value
+
+19. **Which of the following functions is used to read a single character from the user in C?**
+    - a) getchar()
+    - b) getc()
+    - c) scanf()
+    - d) gets()
+    - **Answer:** a) getchar()
+
+20. **Which of the following is an example of a preprocessor directive in C?**
+    - a) #include
+    - b) main()
+    - c) printf()
+    - d) return 0;
+    - **Answer:** a) #include
+
+21. **What is the purpose of the return statement in C?**
+    - a) To end the execution of a program.
+    - b) To return a value from a function.
+    - c) To declare a variable.
+    - d) To call a function.
+    - **Answer:** b) To return a value from a function.
+
+22. **Which of the following is a valid expression in C?**
+    - a) 5 + "Hello"
+    - b) 10 / 0
+    - c) a * b
+    - d) 1++
+    - **Answer:** c) a * b
+
+23. **Which of the following data types is used to store a single character in C?**
+    - a) char
+    - b) int
+    - c) float
+    - d) double
+    - **Answer:** a) char
+
+24. **In C, what does the continue statement do inside a loop?**
+    - a) Exits the loop.
+    - b) Skips the current iteration and proceeds with the next iteration.
+    - c) Ends the program.
+    - d) Jumps to the end of the loop.
+    - **Answer:** b) Skips the current iteration and proceeds with the next iteration.
+
+25. **Which of the following is not a valid storage class in C?**
+    - a) auto
+    - b) register
+    - c) static
+    - d) public
+    - **Answer:** d) public
+Here are more MCQs:
+
+---
+
+26. **What is the purpose of the `#define` directive in C?**
+    - a) To define a constant.
+    - b) To create a new data type.
+    - c) To define a function.
+    - d) To allocate memory dynamically.
+    - **Answer:** a) To define a constant.
+
+27. **Which function is used to find the length of a string in C?**
+    - a) strlen()
+    - b) strcpy()
+    - c) strcat()
+    - d) strcmp()
+    - **Answer:** a) strlen()
+
+28. **Which of the following operators is used for logical AND in C?**
+    - a) &&
+    - b) ||
+    - c) &
+    - d) |
+    - **Answer:** a) &&
+
+29. **What will be the output of the following code?**
+
+    ```
+    int a = 10, b = 20;
+    printf("%d", a > b ? a : b);
+    ```
+    - a) 10
+    - b) 20
+    - c) 0
+    - d) Compilation Error
+    - **Answer:** b) 20
+
+30. **Which of the following is a correct syntax to declare a pointer in C?**
+    - a) int *ptr;
+    - b) int ptr*;
+    - c) int &ptr;
+    - d) int ptr&;
+    - **Answer:** a) int *ptr;
+
+31. **Which function is used to dynamically allocate memory in C?**
+    - a) malloc()
+    - b) free()
+    - c) sizeof()
+    - d) printf()
+    - **Answer:** a) malloc()
+
+32. **Which of the following statements is used to define a block of code in C?**
+    - a) Curly braces {}
+    - b) Square brackets []
+    - c) Parentheses ()
+    - d) Angle brackets <>
+    - **Answer:** a) Curly braces {}
+
+33. **What will be the output of the following code snippet?**
+
+    ```
+    int x = 7;
+    printf("%d", x % 2);
+    ```
+    - a) 0
+    - b) 1
+    - c) 2
+    - d) 7
+    - **Answer:** b) 1
+
+34. **Which of the following statements is used to print data in C?**
+    - a) printf()
+    - b) scanf()
+    - c) input()
+    - d) getch()
+    - **Answer:** a) printf()
+
+35. **In C, which of the following is used to represent a NULL pointer?**
+    - a) 0
+    - b) NULL
+    - c) Both a and b
+    - d) None of the above
+    - **Answer:** c) Both a and b
+
+36. **Which of the following is not a looping structure in C?**
+    - a) for
+    - b) while
+    - c) do-while
+    - d) repeat-until
+    - **Answer:** d) repeat-until
+
+37. **Which of the following functions can be used to read a string from the user in C?**
+    - a) gets()
+    - b) scanf()
+    - c) fgets()
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+38. **What is the use of the `break` statement in C?**
+    - a) To exit from a loop or switch statement.
+    - b) To pause the execution of a program.
+    - c) To restart a loop.
+    - d) To terminate the entire program.
+    - **Answer:** a) To exit from a loop or switch statement.
+
+39. **Which of the following is true about the `void` keyword in C?**
+    - a) It indicates that a function does not return any value.
+    - b) It is used to declare a floating-point variable.
+    - c) It is a data type that can store characters.
+    - d) It represents a memory address.
+    - **Answer:** a) It indicates that a function does not return any value.
+
+40. **Which of the following is used to pass an array to a function in C?**
+    - a) The array name
+    - b) The size of the array
+    - c) The address of the first element
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+41. **Which of the following is used to pass an array to a function in C?**
+    - a) The array name
+    - b) The size of the array
+    - c) The address of the first element
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+42. **Which function is used to allocate memory dynamically in C?**
+    - a) malloc()
+    - b) calloc()
+    - c) realloc()
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+43. **Which of the following is a valid way to initialize an array in C?**
+    - a) int arr[] = {1, 2, 3};
+    - b) int arr[3] = {1, 2, 3};
+    - c) Both a and b
+    - d) None of the above
+    - **Answer:** c) Both a and b
+
+44. **What is the purpose of the `realloc()` function in C?**
+    - a) To free the allocated memory.
+    - b) To reduce or increase the size of previously allocated memory.
+    - c) To allocate memory dynamically.
+    - d) To check the size of the allocated memory.
+    - **Answer:** b) To reduce or increase the size of previously allocated memory.
+
+45. **Which of the following is not a valid data type in C?**
+    - a) int
+    - b) float
+    - c) double
+    - d) real
+    - **Answer:** d) real
+
+46. **Which of the following functions is used to open a file in C?**
+    - a) open()
+    - b) fopen()
+    - c) fileopen()
+    - d) newfile()
+    - **Answer:** b) fopen()
+
+47. **Which operator is used to access members of a structure in C?**
+    - a) .
+    - b) ->
+    - c) *
+    - d) &
+    - **Answer:** a) .
+
+48. **What will be the output of the following code?**
+
+    ```c
+    int a = 5, b = 10;
+    printf("%d", a * b);
+    ```
+    - a) 15
+    - b) 50
+    - c) 5
+    - d) 10
+    - **Answer:** b) 50
+
+49. **What is the function of the `fscanf()` in C?**
+    - a) To read formatted input from a file.
+    - b) To write formatted output to a file.
+    - c) To read a single character from a file.
+    - d) To write a single character to a file.
+    - **Answer:** a) To read formatted input from a file.
+
+50. **What is the output of the following code?**
+
+    ```c
+    int a = 5;
+    a += 10;
+    printf("%d", a);
+    ```
+    - a) 5
+    - b) 10
+    - c) 15
+    - d) 20
+    - **Answer:** c) 15
+
+---
+
+51. **Which of the following is a correct declaration of a pointer to an integer in C?**
+    - a) int *p;
+    - b) int p*;
+    - c) int &p;
+    - d) int p&;
+    - **Answer:** a) int *p;
+
+52. **What is the role of the `fclose()` function in C?**
+    - a) To close an open file.
+    - b) To clear the contents of a file.
+    - c) To open a new file.
+    - d) To move the file pointer to the beginning.
+    - **Answer:** a) To close an open file.
+
+53. **Which of the following is used to define a macro in C?**
+    - a) #define
+    - b) #macro
+    - c) #include
+    - d) #ifdef
+    - **Answer:** a) #define
+
+54. **Which of the following is not a valid escape sequence in C?**
+    - a) \n
+    - b) \t
+    - c) \r
+    - d) \b
+    - **Answer:** d) \b
+
+55. **Which of the following is used to declare a variable that cannot be modified in C?**
+    - a) const
+    - b) static
+    - c) extern
+    - d) register
+    - **Answer:** a) const
+
+56. **What does the `*` symbol represent in pointer operations in C?**
+    - a) Dereferencing a pointer (accessing the value at the address).
+    - b) Declaring a pointer.
+    - c) Accessing the address of a variable.
+    - d) Multiplication.
+    - **Answer:** a) Dereferencing a pointer (accessing the value at the address).
+
+57. **Which of the following is the correct way to initialize a pointer in C?**
+    - a) int *p = NULL;
+    - b) int p = 0;
+    - c) int *p;
+    - d) int &p;
+    - **Answer:** a) int *p = NULL;
+
+58. **Which operator is used to get the address of a variable in C?**
+    - a) &
+    - b) *
+    - c) @
+    - d) #
+    - **Answer:** a) &
+
+59. **What is the output of the following code?**
+
+    ```c
+    int x = 5, y = 10;
+    printf("%d", x + y);
+    ```
+    - a) 5
+    - b) 10
+    - c) 15
+    - d) 20
+    - **Answer:** c) 15
+
+60. **What does the term "function prototype" mean in C?**
+    - a) It is the declaration of a function.
+    - b) It is the body of a function.
+    - c) It is a macro definition.
+    - d) It is a type of loop.
+    - **Answer:** a) It is the declaration of a function.
+
+---
+
+61. **Which of the following is a valid example of a C string?**
+    - a) char str[] = "Hello";
+    - b) char str[] = {'H', 'e', 'l', 'l', 'o', '\0'};
+    - c) Both a and b
+    - d) None of the above
+    - **Answer:** c) Both a and b
+
+62. **Which of the following is used to handle errors in C?**
+    - a) Exception handling
+    - b) Error checking
+    - c) Error handling
+    - d) None of the above
+    - **Answer:** d) None of the above
+
+63. **Which of the following functions can be used to convert a string to an integer in C?**
+    - a) atoi()
+    - b) itoa()
+    - c) atof()
+    - d) strtol()
+    - **Answer:** a) atoi()
+
+64. **Which of the following is used to return a value from a function in C?**
+    - a) return
+    - b) printf()
+    - c) scanf()
+    - d) exit()
+    - **Answer:** a) return
+
+65. **What is the default return type of the `main()` function in C?**
+    - a) void
+    - b) int
+    - c) float
+    - d) double
+    - **Answer:** b) int
+
+66. **Which of the following functions is used to compare two strings in C?**
+    - a) strcmp()
+    - b) strcpy()
+    - c) strlen()
+    - d) strcat()
+    - **Answer:** a) strcmp()
+
+67. **Which of the following is true about recursion in C?**
+    - a) A function that calls itself.
+    - b) A function that calls another function.
+    - c) A function that is called by another function.
+    - d) A function that cannot return a value.
+    - **Answer:** a) A function that calls itself.
+
+68. **What is the output of the following code?**
+
+    ```c
+    int a = 10, b = 20;
+    printf("%d", b - a);
+    ```
+    - a) 10
+    - b) 20
+    - c) 30
+    - d) -10
+    - **Answer:** a) 10
+
+69. **Which of the following is the correct way to declare a constant in C?**
+    - a) const int a = 10;
+    - b) int const a = 10;
+    - c) #define a 10
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+70. **Which of the following is not a standard library function in C?**
+    - a) printf()
+    - b) scanf()
+    - c) gets()
+    - d) out()
+    - **Answer:** d) out()
+
+71.** **Which of the following is not a keyword in C?**
+   - a) volatile
+   - b) register
+   - c) function
+   - d) goto
+   - **Answer:** c) function
+
+72.** **What is the return type of the malloc() function in C?**
+   - a) int
+   - b) void
+   - c) void*
+   - d) char*
+   - **Answer:** c) void*
+
+73.** **Which of the following is the correct way to create a pointer to an integer in C?**
+   - a) int *p;
+   - b) int p*;
+   - c) int &p;
+   - d) int p&;
+   - **Answer:** a) int *p;
+
+74.** **Which of the following is not an arithmetic operator in C?**
+   - a) +
+   - b) -
+   - c) *
+   - d) &&
+   - **Answer:** d) &&
+
+75.** **Which of the following is used to read a single character from the console in C?**
+   - a) getchar()
+   - b) gets()
+   - c) scanf()
+   - d) printf()
+   - **Answer:** a) getchar()
+
+76.** **What is the output of the following code?**
+   ```c
+   int a = 8;
+   printf("%d", a >> 1);
+   ```
+   - a) 4
+   - b) 8
+   - c) 16
+   - d) 2
+   - **Answer:** a) 4
+
+77.** **Which of the following is a valid format specifier in C?**
+   - a) %d
+   - b) %c
+   - c) %f
+   - d) All of the above
+   - **Answer:** d) All of the above
+
+78.** **What is the purpose of the continue statement in C?**
+   - a) To skip the current iteration of a loop.
+   - b) To terminate the loop.
+   - c) To end the program.
+   - d) To restart the loop.
+   - **Answer:** a) To skip the current iteration of a loop.
+
+79.** **Which of the following is true about the sizeof() operator?**
+   - a) It returns the size of a data type or variable in bytes.
+   - b) It counts the number of elements in an array.
+   - c) It measures the size of the code.
+   - d) It determines the size of a pointer.
+   - **Answer:** a) It returns the size of a data type or variable in bytes.
+
+80.** **What is the output of the following code?**
+   ```c
+   int a = 10;
+   int b = 3;
+   printf("%d", a % b);
+   ```
+   - a) 1
+   - b) 2
+   - c) 3
+   - d) 4
+   - **Answer:** a) 1
+
+81.** **Which of the following is used to define a macro in C?**
+   - a) #define
+   - b) const
+   - c) static
+   - d) extern
+   - **Answer:** a) #define
+
+82.** **Which of the following is the correct way to declare a float variable in C?**
+   - a) float a;
+   - b) double a;
+   - c) int a;
+   - d) char a;
+   - **Answer:** a) float a;
+
+83.** **Which of the following statements is used to terminate a loop prematurely?**
+   - a) break
+   - b) continue
+   - c) return
+   - d) exit
+   - **Answer:** a) break
+
+84.** **What is the purpose of the return statement in C?**
+   - a) To return a value from a function.
+   - b) To end the execution of a program.
+   - c) To declare a variable.
+   - d) To call a function.
+   - **Answer:** a) To return a value from a function.
+
+85.** **Which of the following is true about the static keyword in C?**
+   - a) It preserves the value of a variable across function calls.
+   - b) It limits the scope of a variable to a function.
+   - c) It allocates memory only once.
+   - d) All of the above.
+   - **Answer:** d) All of the above
+
+86. **Which of the following is used to check for equality between two values in C?**
+    - a) =
+    - b) ==
+    - c) !=
+    - d) <=
+    - **Answer:** b) ==
+
+87. **What is the correct way to declare a function that does not return any value in C?**
+    - a) int functionName();
+    - b) void functionName();
+    - c) char functionName();
+    - d) double functionName();
+    - **Answer:** b) void functionName();
+
+88. **Which of the following is not a valid C preprocessor directive?**
+    - a) #define
+    - b) #include
+    - c) #ifdef
+    - d) #import
+    - **Answer:** d) #import
+
+89. **In C, how do you access the value of a variable through a pointer?**
+    - a) *
+    - b) &
+    - c) ->
+    - d) .
+    - **Answer:** a) *
+
+90. **What is the correct syntax for an if statement in C?**
+    - a) if condition { }
+    - b) if (condition) { }
+    - c) if [condition] { }
+    - d) if <condition> { }
+    - **Answer:** b) if (condition) { }
+
+91. **Which of the following is used to allocate a block of memory in C?**
+    - a) malloc()
+    - b) calloc()
+    - c) realloc()
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+92. **What does the `continue` statement do in a loop?**
+    - a) Terminates the loop.
+    - b) Skips the current iteration and continues with the next iteration.
+    - c) Restarts the loop from the beginning.
+    - d) Ends the program.
+    - **Answer:** b) Skips the current iteration and continues with the next iteration.
+
+93. **What is the correct way to declare a two-dimensional array in C?**
+    - a) int arr[10][10];
+    - b) int[10][10] arr;
+    - c) array[10][10] int;
+    - d) arr int[10][10];
+    - **Answer:** a) int arr[10][10];
+
+94. **Which of the following statements is true about a switch statement in C?**
+    - a) It can only check for integer values.
+    - b) It can check for multiple conditions at once.
+    - c) It can handle both integers and characters.
+    - d) It is used to terminate a loop.
+    - **Answer:** c) It can handle both integers and characters.
+
+95. **Which function is used to free dynamically allocated memory in C?**
+    - a) delete()
+    - b) free()
+    - c) malloc()
+    - d) clear()
+    - **Answer:** b) free()
+
+96. **What is the output of the following code?**
+
+    ```
+    int a = 5, b = 3;
+    printf("%d", a / b);
+    ```
+    - a) 1
+    - b) 1.6667
+    - c) 2
+    - d) Compilation Error
+    - **Answer:** a) 1
+
+97. **Which of the following is the correct way to declare a constant in C?**
+    - a) int const a = 10;
+    - b) const int a = 10;
+    - c) #define a 10
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+98. **Which of the following is a valid loop in C?**
+    - a) for (int i = 0; i < 10; i++)
+    - b) while (i < 10)
+    - c) do { } while (i < 10);
+    - d) All of the above
+    - **Answer:** d) All of the above
+
+99. **Which operator is used to get the remainder of a division in C?**
+    - a) /
+    - b) %
+    - c) //
+    - d) *
+    - **Answer:** b) %
+
+100. **Which of the following is used to terminate a C program?**
+    - a) end
+    - b) stop
+    - c) exit()
+    - d) terminate
+    - **Answer:** c) exit()
