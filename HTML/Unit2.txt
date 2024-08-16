@@ -1,0 +1,351 @@
+**Q1:** Which HTML5 element is used to define navigation links?
+   - a) `<nav>`
+   - b) `<link>`
+   - c) `<navbar>`
+   - d) `<navigate>`  
+   **Answer:** a) `<nav>`
+
+**Q2:** Which HTML5 element is used to group together related content?
+   - a) `<section>`
+   - b) `<group>`
+   - c) `<content>`
+   - d) `<article>`  
+   **Answer:** a) `<section>`
+
+**Q3:** Which attribute is used to specify that an input field must be filled out before submitting the form?
+   - a) required
+   - b) mandatory
+   - c) validate
+   - d) need  
+   **Answer:** a) required
+
+**Q4:** What is the purpose of the `<datalist>` tag in HTML5?
+   - a) To define a list of options for an input field
+   - b) To create a dropdown list
+   - c) To group options within a select element
+   - d) To define a data table  
+   **Answer:** a) To define a list of options for an input field
+
+**Q5:** Which HTML5 element is used to embed a video directly in a web page?
+   - a) `<video>`
+   - b) `<media>`
+   - c) `<embed>`
+   - d) `<movie>`  
+   **Answer:** a) `<video>`
+
+**Q6:** What is the purpose of the `<figure>` element in HTML5?
+   - a) To group media content with a caption
+   - b) To define an image
+   - c) To create a chart
+   - d) To include a mathematical formula  
+   **Answer:** a) To group media content with a caption
+
+**Q7:** Which of the following elements is new in HTML5?
+   - a) `<section>`
+   - b) `<header>`
+   - c) `<footer>`
+   - d) All of the above  
+   **Answer:** d) All of the above
+
+**Q8:** What is the purpose of the `placeholder` attribute in an HTML5 input field?
+   - a) To provide a hint to the user about what to enter
+   - b) To set a default value
+   - c) To set a label for the input field
+   - d) To define the type of input  
+   **Answer:** a) To provide a hint to the user about what to enter
+
+**Q9:** Which HTML5 element is used to define self-contained content?
+   - a) `<article>`
+   - b) `<section>`
+   - c) `<div>`
+   - d) `<aside>`  
+   **Answer:** a) `<article>`
+
+**Q10:** Which element is used to define the footer of a document or a section?
+   - a) `<footer>`
+   - b) `<bottom>`
+   - c) `<end>`
+   - d) `<section>`  
+   **Answer:** a) `<footer>`
+
+**Q11:** What is the purpose of the `<canvas>` element in HTML5?
+   - a) To draw graphics on the fly via JavaScript
+   - b) To create a drawing
+   - c) To embed images
+   - d) To define a video canvas  
+   **Answer:** a) To draw graphics on the fly via JavaScript
+
+**Q12:** Which element is used to define a caption for a `<figure>` element?
+   - a) `<figcaption>`
+   - b) `<caption>`
+   - c) `<title>`
+   - d) `<summary>`  
+   **Answer:** a) `<figcaption>`
+
+**Q13:** Which attribute is used to make an input field read-only in HTML5?
+   - a) readonly
+   - b) disabled
+   - c) locked
+   - d) static  
+   **Answer:** a) readonly
+
+**Q14:** What is the purpose of the `autocomplete` attribute in an HTML5 form?
+   - a) To allow the browser to automatically complete input fields based on previous input
+   - b) To suggest input values
+   - c) To validate form data
+   - d) To provide a dropdown list of possible values  
+   **Answer:** a) To allow the browser to automatically complete input fields based on previous input
+
+**Q15:** Which attribute in HTML5 is used to specify that an input field should automatically get focus when the page loads?
+   - a) autofocus
+   - b) focus
+   - c) selected
+   - d) default  
+   **Answer:** a) autofocus
+
+**Q16:** What is the purpose of the `<progress>` element in HTML5?
+   - a) To display the progress of a task
+   - b) To define a progress bar
+   - c) To create a loading indicator
+   - d) To define a timer  
+   **Answer:** a) To display the progress of a task
+
+**Q17:** Which HTML5 element is used to define a dialog box or interactive component?
+   - a) `<dialog>`
+   - b)
+
+ `<modal>`
+   - c) `<popup>`
+   - d) `<interaction>`  
+   **Answer:** a) `<dialog>`
+
+**Q18:** Which attribute is used to specify that an input field should be disabled?
+   - a) disabled
+   - b) readonly
+   - c) inactive
+   - d) locked  
+   **Answer:** a) disabled
+
+**Q19:** Which HTML5 element is used to create a multi-line text input field?
+   - a) `<textarea>`
+   - b) `<input type="text">`
+   - c) `<textbox>`
+   - d) `<multitext>`  
+   **Answer:** a) `<textarea>`
+
+**Q20:** What is the purpose of the `<aside>` element in HTML5?
+   - a) To define content aside from the main content
+   - b) To include side notes
+   - c) To define a sidebar
+   - d) All of the above  
+   **Answer:** d) All of the above
+
+**Q21:** Which attribute is used to specify a default value for an input field in HTML5?
+   - a) value
+   - b) default
+   - c) placeholder
+   - d) initial  
+   **Answer:** a) value
+
+**Q22:** Which HTML5 element is used to define a block of related elements?
+   - a) `<div>`
+   - b) `<section>`
+   - c) `<group>`
+   - d) `<article>`  
+   **Answer:** b) `<section>`
+
+**Q23:** Which HTML5 element is used to embed a video from YouTube?
+   - a) `<iframe>`
+   - b) `<embed>`
+   - c) `<video>`
+   - d) `<object>`  
+   **Answer:** a) `<iframe>`
+
+**Q24:** What is the purpose of the `<time>` element in HTML5?
+   - a) To define a time or date
+   - b) To include a timer
+   - c) To define a duration
+   - d) To display current time  
+   **Answer:** a) To define a time or date
+
+**Q25:** Which HTML5 element is used to define a container for external content?
+   - a) `<iframe>`
+   - b) `<embed>`
+   - c) `<object>`
+   - d) `<frame>`  
+   **Answer:** a) `<iframe>`
+
+**Q26:** What is the purpose of the `<meter>` element in HTML5?
+   - a) To represent a scalar measurement within a known range
+   - b) To display a progress bar
+   - c) To measure time
+   - d) To define a timer  
+   **Answer:** a) To represent a scalar measurement within a known range
+
+**Q27:** Which HTML5 element is used to define a template?
+   - a) `<template>`
+   - b) `<pattern>`
+   - c) `<sample>`
+   - d) `<prototype>`  
+   **Answer:** a) `<template>`
+
+**Q28:** Which attribute is used to specify that an input field should be automatically selected?
+   - a) selected
+   - b) autofocus
+   - c) chosen
+   - d) default  
+   **Answer:** b) autofocus
+
+**Q29:** What is the purpose of the `<details>` element in HTML5?
+   - a) To specify additional details that the user can view or hide
+   - b) To define a summary
+   - c) To include footnotes
+   - d) To provide descriptions  
+   **Answer:** a) To specify additional details that the user can view or hide
+
+**Q30:** Which element is used to define a header for a document or a section?
+   - a) `<header>`
+   - b) `<head>`
+   - c) `<section>`
+   - d) `<top>`  
+   **Answer:** a) `<header>`
+
+**Q31:** Which of the following elements is used to define a group of options within a select element?
+   - a) `<optgroup>`
+   - b) `<group>`
+   - c) `<select>`
+   - d) `<option>`  
+   **Answer:** a) `<optgroup>`
+
+**Q32:** What is the purpose of the `novalidate` attribute in an HTML5 form?
+   - a) To disable form validation
+   - b) To skip form fields
+   - c) To clear form data
+   - d) To hide form fields  
+   **Answer:** a) To disable form validation
+
+**Q33:** Which HTML5 element is used to define a caption for a table?
+   - a) `<caption>`
+   - b) `<summary>`
+   - c) `<header>`
+   - d) `<legend>`  
+   **Answer:** a) `<caption>`
+
+**Q34:** Which attribute is used to specify that multiple options can be selected in a `<select>` element?
+   - a) multiple
+   - b) multiselect
+   - c) choose
+   - d) options  
+   **Answer:** a) multiple
+
+**Q35:** What is the purpose of the `<summary>` element in HTML5?
+   - a) To provide a summary for the `<details>` element
+   - b) To summarize the document
+   - c) To include a brief description
+   - d) To provide a conclusion  
+   **Answer:** a) To provide a summary for the `<details>` element
+
+**Q36:** Which attribute is used to specify the maximum length of an input field in HTML5?
+   - a) maxlength
+   - b) limit
+   - c) max
+   - d) length  
+   **Answer:** a) maxlength
+
+**Q37:** Which HTML5 element is used to define a self-contained media content?
+   - a) `<figure>`
+   - b) `<media>`
+   - c) `<picture>`
+   - d) `<content>`  
+   **Answer:** a) `<figure>`
+
+**Q38:** Which element is used to define a block of navigation links?
+   - a) `<nav>`
+   - b) `<link>`
+   - c) `<navbar>`
+   - d) `<navigate>`  
+   **Answer:** a) `<nav>`
+
+**Q39:** Which HTML5 element is used to define a media player for audio files?
+   - a) `<audio>`
+   - b) `<media>`
+   - c) `<sound>`
+   - d) `<embed>`  
+   **Answer:** a) `<audio>`
+
+**Q40:** What is the purpose of the `<mark>` element in HTML5?
+   - a) To highlight text
+   - b) To mark an important section
+   - c) To define a comment
+   - d) To mark a revision  
+   **Answer:** a) To highlight text
+
+**Q41:** Which attribute is used to specify that an input field should be validated before form submission?
+   - a) required
+   - b) validate
+   - c) check
+   - d) confirm  
+   **Answer:** a) required
+
+**Q42:** What is the purpose of the `<output>` element in HTML5?
+   - a) To represent the result of a calculation
+   - b) To display the result of a script
+   - c) To output data to the user
+   - d) To create an output field  
+   **Answer:** a) To represent the result of a calculation
+
+**Q43:** Which element is used to define a sidebar in HTML5?
+   - a) `<aside>`
+   - b) `<side>`
+   - c) `<sidebar>`
+   - d) `<section>`  
+   **Answer:** a) `<aside>`
+
+**Q44:** Which attribute is used to specify the minimum value for an input field in HTML5?
+   - a) min
+   - b) minimum
+   - c) range
+   - d) least  
+   **Answer:** a) min
+
+**Q45:** What is the purpose of the `<keygen>` element in HTML5?
+   - a) To generate a key pair for certificate management
+   - b) To define a shortcut key
+   - c) To encrypt data
+   - d) To create a key field  
+   **Answer:** a) To generate a key pair for certificate management
+
+**Q46:** Which element is used to define a block of code in HTML5?
+   - a) `<code>`
+   - b) `<pre>`
+   - c) `<script>`
+   - d) `<program>`  
+   **Answer:** a) `<code>`
+
+**Q47:** What is the purpose of the `<menu>` element in HTML5?
+   - a) To define a list of commands or options
+   - b) To create a dropdown menu
+   - c) To define a navigation bar
+   - d) To group links  
+   **Answer:** a) To define a list of commands or options
+
+**Q48:** Which HTML5 element is used to define a range of values?
+   - a) `<range>`
+   - b) `<input type="range">`
+   - c) `<slider>`
+   - d) `<value>`  
+   **Answer:** b) `<input type="range">`
+
+**Q49:** What is the purpose of the `<fieldset>` element in HTML5?
+   - a) To group related elements in a form
+   - b) To define a section of a form
+   - c) To create a border around a form
+   - d) To include a legend  
+   **Answer:** a) To group related elements in a form
+
+**Q50:** Which element is used to create a collapsible panel in HTML5?
+   - a) `<details>`
+   - b) `<summary>`
+   - c) `<panel>`
+   - d) `<collapse>`  
+   **Answer:** a) `<details>`

@@ -1,0 +1,349 @@
+**1. Which of the following is not a primary function of a computer?**
+   - A) Data processing
+   - B) Data storage
+   - C) Data transmission
+   - D) Data destruction  
+   **Answer: D) Data destruction**
+
+**2. The term ‘bit’ is short for:**
+   - A) Binary digit
+   - B) Binary integer
+   - C) Binary data
+   - D) Bitwise operation  
+   **Answer: A) Binary digit**
+
+**3. The CPU is composed of:**
+   - A) Control unit and ALU
+   - B) Memory and ALU
+   - C) Control unit and RAM
+   - D) RAM and ROM  
+   **Answer: A) Control unit and ALU**
+
+**4. Which of the following is not a type of computer?**
+   - A) Supercomputer
+   - B) Microcomputer
+   - C) Macrocomputer
+   - D) Minicomputer  
+   **Answer: C) Macrocomputer**
+
+**5. RAM stands for:**
+   - A) Random Access Memory
+   - B) Read Access Memory
+   - C) Read-Only Memory
+   - D) Random Area Memory  
+   **Answer: A) Random Access Memory**
+
+**6. Which of the following is used to identify a web page?**
+   - A) URL
+   - B) HTML
+   - C) IP Address
+   - D) None of the above  
+   **Answer: A) URL**
+
+**7. A kilobyte (KB) is equal to:**
+   - A) 1000 bytes
+   - B) 1024 bytes
+   - C) 10000 bytes
+   - D) 1048 bytes  
+   **Answer: B) 1024 bytes**
+
+**8. The operating system is an example of:**
+   - A) System software
+   - B) Application software
+   - C) Utility software
+   - D) None of the above  
+   **Answer: A) System software**
+
+**9. Which of the following storage devices can store maximum data?**
+   - A) Floppy Disk
+   - B) Hard Disk
+   - C) CD-ROM
+   - D) DVD  
+   **Answer: B) Hard Disk**
+
+**10. What is the function of the ALU?**
+   - A) Store data
+   - B) Perform arithmetic and logic operations
+   - C) Control system operations
+   - D) None of the above  
+   **Answer: B) Perform arithmetic and logic operations**
+
+**11. The brain of any computer system is:**
+   - A) ALU
+   - B) Memory
+   - C) CPU
+   - D) Control unit  
+   **Answer: C) CPU**
+
+**12. The output quality of a printer is measured by:**
+   - A) Dots per inch
+   - B) Pixel per inch
+   - C) Print per inch
+   - D) None of the above  
+   **Answer: A) Dots per inch**
+
+**13. Which part of the computer is used for calculating and comparing?**
+   - A) ALU
+   - B) Control unit
+   - C) Disk unit
+   - D) Modem  
+   **Answer: A) ALU**
+
+**14. In which type of computer, data are represented as discrete signals?**
+   - A) Digital Computer
+   - B) Analog Computer
+   - C) Hybrid Computer
+   - D) None of the above  
+   **Answer: A) Digital Computer**
+
+**15. A collection of related fields in a database is known as:**
+   - A) File
+   - B) Record
+   - C) Database
+   - D) Table  
+   **Answer: B) Record**
+
+**16. Which of the following memory is non-volatile?**
+   - A) RAM
+   - B) ROM
+   - C) Cache memory
+   - D) All of the above  
+   **Answer: B) ROM**
+
+**17. Which device is used as the standard pointing device in a Graphical User Environment?**
+   - A) Keyboard
+   - B) Mouse
+   - C) Joystick
+   - D) Trackball  
+   **Answer: B) Mouse**
+
+**18. Which of the following is an example of an input device?**
+   - A) Printer
+   - B) Monitor
+   - C) Mouse
+   - D) Speaker  
+   **Answer: C) Mouse**
+
+**19. Which of the following is the fastest type of memory?**
+   - A) RAM
+   - B) ROM
+   - C) Cache
+   - D) Virtual memory  
+   **Answer: C) Cache**
+
+**20. What is the full form of URL?**
+   - A) Uniform Resource Locator
+   - B) Uniform Resource Link
+   - C) Uniform Registered Link
+   - D) Uniform Registered Locator  
+   **Answer: A) Uniform Resource Locator**
+
+**21. The primary memory of a computer is also known as:**
+   - A) RAM
+   - B) Hard disk
+   - C) Cache
+   - D) Floppy disk  
+   **Answer: A) RAM**
+
+**22. What does GUI stand for?**
+   - A) Graphical User Interface
+   - B) General User Interface
+   - C) Graphical Unified Interface
+   - D) General Unified Interface  
+   **Answer: A) Graphical User Interface**
+
+**23. Which of the following is not a storage device?**
+   - A) Hard disk
+   - B) CD-ROM
+   - C) Printer
+   - D) Floppy disk  
+   **Answer: C) Printer**
+
+**24. Which of the following is an example of a high-level language?**
+   - A) Assembly language
+   - B) Machine language
+   - C) C++
+   - D) None of the above  
+   **Answer: C) C++**
+
+**25. Which of the following is not a network topology?**
+   - A) Star
+   - B) Bus
+   - C) Ring
+   - D) Linear  
+   **Answer: D) Linear**
+
+**26. The smallest unit of data in a computer is:**
+   - A) Bit
+   - B) Byte
+   - C) Nibble
+   - D) Word  
+   **Answer: A) Bit**
+
+**27. Which of the following is the largest unit of storage?**
+   - A) Kilobyte
+   - B) Megabyte
+   - C) Gigabyte
+   - D) Terabyte  
+   **Answer: D) Terabyte**
+
+**28. What does HTTP stand for?**
+   - A) HyperText Transfer Protocol
+   - B) HyperText Transmission Protocol
+   - C) HyperText Transfer Path
+   - D) HyperText Transmission Path  
+   **Answer: A) HyperText Transfer Protocol**
+
+**29. Which of the following is used to connect to the Internet?**
+   - A) Modem
+   - B) Printer
+   - C) Scanner
+   - D) Mouse  
+   **Answer: A) Modem**
+
+**30. The physical components of a computer are known as:**
+   - A) Hardware
+   - B) Software
+   - C) Firmware
+   - D) Malware  
+   **Answer: A) Hardware**
+
+**31. Which of the following is not a web browser?**
+   - A) Chrome
+   - B) Firefox
+   - C) Windows
+   - D) Safari  
+   **Answer: C) Windows**
+
+**32. The basic architecture of a computer was developed by:**
+   - A) Charles Babbage
+   - B) John Von Neumann
+   - C) Blaise Pascal
+   - D) Alan Turing  
+   **Answer: B) John Von Neumann**
+
+**33. Which of the following is an example of an optical storage device?**
+   - A) Hard disk
+   - B) CD-ROM
+   - C) RAM
+   - D) ROM  
+   **Answer: B) CD-ROM**
+
+**34. A light pen is an example of:**
+   - A) Input device
+   - B) Output device
+   - C) Storage device
+   - D) Processing device  
+   **Answer: A) Input device**
+
+**35. What does IP stand for in IP address?**
+   - A) Internet Protocol
+   - B) Internet Process
+   - C) Internet Procedure
+   - D) Internet Program  
+   **Answer: A) Internet Protocol**
+
+**36. Which of the following is a valid IP address?**
+   - A) 192.168.1.1
+   - B) 192.168.0.256
+   - C) 192.168.1.300
+   - D) 192.168.1.500  
+   **Answer: A) 192.168.1.1**
+
+**37. The 'brain' of the computer which performs arithmetic and logical operations is called:**
+   - A) CPU
+   - B) RAM
+   - C) ALU
+   - D) Control Unit  
+   **Answer: A) CPU**
+
+**38. The process of starting or restarting a computer system by loading instructions from a secondary storage device into the computer memory is called:**
+   - A) Booting
+   - B) Formatting
+   - C) Logging in
+   - D) Editing  
+   **Answer: A) Booting**
+
+**39. The part of the CPU that performs all logical and arithmetic computations is the:**
+   - A) ALU
+   - B) Control Unit
+   - C) Registers
+   - D) Main Memory  
+   **Answer: A) ALU**
+
+**40. Which of the following is an example of system software?**
+   - A) Microsoft Word
+   - B) Microsoft Excel
+   - C) Microsoft Windows
+   - D) Adobe Photoshop  
+   **Answer: C) Microsoft Windows**
+
+**41. A network that covers a large geographical area, such as a country or continent, is known as:**
+   - A) LAN
+   - B) MAN
+   - C) WAN
+   - D) PAN  
+   **Answer: C) WAN**
+
+**42. Which of the following types of software allows a user to perform a specific task, such as writing a letter or creating a spreadsheet?**
+   - A) System software
+   - B) Application software
+   - C) Utility software
+   - D) Firmware  
+   **Answer: B) Application software**
+
+**43. The full form of ASCII is:**
+   - A) American Standard Code for Information Interchange
+   - B) American Standard Computer for Information Interchange
+   - C) American System Code for Information Interchange
+   - D) American System Computer for Information Interchange  
+   **Answer: A) American Standard Code for Information Interchange**
+
+**44. Which of the following protocols is used for email services?**
+   - A) SMTP
+   - B) FTP
+   - C) HTTP
+   - D) SNMP  
+   **Answer: A) SMTP**
+
+**45. The device used to carry digital data on analog lines is called:**
+   - A) Modem
+   - B) Router
+   - C) Bridge
+   - D) Gateway  
+   **Answer: A) Modem**
+
+**46. What is the main function of the ALU?**
+   - A) Perform arithmetic and logic operations
+   - B) Store data
+   - C) Control system operations
+   - D) Perform input/output operations  
+   **Answer: A) Perform arithmetic and logic operations**
+
+**47. Which of the following is not a characteristic of a computer?**
+   - A) Versatility
+   - B) Diligence
+   - C) Intelligence
+   - D) Speed  
+   **Answer: C) Intelligence**
+
+**48. Which memory is referred to as permanent memory?**
+   - A) ROM
+   - B) RAM
+   - C) Cache
+   - D) Register  
+   **Answer: A) ROM**
+
+**49. What is the full form of BIOS?**
+   - A) Basic Input/Output System
+   - B) Basic Integrated Operating System
+   - C) Binary Input/Output System
+   - D) Binary Integrated Operating System  
+   **Answer: A) Basic Input/Output System**
+
+**50. What does the acronym HTML stand for?**
+   - A) HyperText Markup Language
+   - B) HyperText Machine Language
+   - C) HyperText Manipulation Language
+   - D) HyperText Managed Language  
+   **Answer: A) HyperText Markup Language**

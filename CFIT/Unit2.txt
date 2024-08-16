@@ -1,0 +1,351 @@
+**1. Software that is used to control the hardware of a computer is known as:**
+   - A) Application software
+   - B) System software
+   - C) Utility software
+   - D) Firmware  
+   **Answer: B) System software**
+
+**2. Which of the following is not an operating system?**
+   - A) Windows
+   - B) Linux
+   - C) Oracle
+   - D) macOS  
+   **Answer: C) Oracle**
+
+**3. The process of starting a computer and loading the operating system is known as:**
+   - A) Booting
+   - B) Formatting
+   - C) Scanning
+   - D) Processing  
+   **Answer: A) Booting**
+
+**4. Which of the following is an example of utility software?**
+   - A) Antivirus program
+   - B) Word processor
+   - C) Web browser
+   - D) Database software  
+   **Answer: A) Antivirus program**
+
+**5. What is the primary function of a compiler?**
+   - A) Translate high-level language into machine code
+   - B) Debug programs
+   - C) Execute program code
+   - D) Link libraries  
+   **Answer: A) Translate high-level language into machine code**
+
+**6. The term BIOS stands for:**
+   - A) Basic Input/Output System
+   - B) Binary Input/Output System
+   - C) Basic Integrated Operating System
+   - D) Binary Integrated Operating System  
+   **Answer: A) Basic Input/Output System**
+
+**7. Which of the following is a type of operating system?**
+   - A) Batch processing system
+   - B) Multi-tasking system
+   - C) Real-time system
+   - D) All of the above  
+   **Answer: D) All of the above**
+
+**8. What does the boot loader do?**
+   - A) Loads the operating system into memory
+   - B) Shuts down the computer
+   - C) Manages hardware resources
+   - D) None of the above  
+   **Answer: A) Loads the operating system into memory**
+
+**9. Which of the following is not a type of system software?**
+   - A) Word processor
+   - B) Compiler
+   - C) Operating system
+   - D) Utility program  
+   **Answer: A) Word processor**
+
+**10. What is the function of an interpreter?**
+   - A) Converts high-level language into machine code line by line
+   - B) Converts entire code at once
+   - C) Links program modules
+   - D) None of the above  
+   **Answer: A) Converts high-level language into machine code line by line**
+
+**11. Which of the following is not a characteristic of an operating system?**
+   - A) Time-sharing
+   - B) Multitasking
+   - C) Spooling
+   - D) Compiling  
+   **Answer: D) Compiling**
+
+**12. The primary purpose of an operating system is to:**
+   - A) Manage computer resources
+   - B) Provide a user interface
+   - C) Execute and provide services for application software
+   - D) All of the above  
+   **Answer: D) All of the above**
+
+**13. What is the purpose of device drivers?**
+   - A) To manage input/output devices
+   - B) To manage memory
+   - C) To manage CPU processes
+   - D) To manage file systems  
+   **Answer: A) To manage input/output devices**
+
+**14. Which of the following operating systems does not support multitasking?**
+   - A) MS-DOS
+   - B) Windows 10
+   - C) macOS
+   - D) Linux  
+   **Answer: A) MS-DOS**
+
+**15. What is the function of the shell in an operating system?**
+   - A) It provides an interface for users to interact with the kernel
+   - B) It manages system resources
+   - C) It handles process scheduling
+   - D) It provides network services  
+   **Answer: A) It provides an interface for users to interact with the kernel**
+
+**16. Which of the following is a graphical user interface (GUI) based operating system?**
+   - A) MS-DOS
+   - B) Windows
+   - C) Linux (Command-line Interface)
+   - D) Unix  
+   **Answer: B) Windows**
+
+**17. What is virtual memory?**
+   - A) It is a type of physical memory
+   - B) It is memory on the hard disk that the OS uses as if it were RAM
+   - C) It is the main memory
+   - D) It is cache memory  
+   **Answer: B) It is memory on the hard disk that the OS uses as if it were RAM**
+
+**18. The kernel of an operating system is:**
+   - A) The core component that manages system resources
+   - B) The user interface of the operating system
+   - C) The program that loads the OS into memory
+   - D) None of the above  
+   **Answer: A) The core component that manages system resources**
+
+**19. Which of the following is not an example of application software?**
+   - A) Word processor
+   - B) Web browser
+   - C) Operating system
+   - D) Spreadsheet  
+   **Answer: C) Operating system**
+
+**20. What is the function of a file system in an operating system?**
+   - A) Manage how data is stored and retrieved
+   - B) Provide a user interface
+   - C) Manage input/output devices
+   - D) Manage CPU scheduling  
+   **Answer: A) Manage how data is stored and retrieved**
+
+**21. Which of the following is an example of a command-line interface operating system?**
+   - A) MS-DOS
+   - B) Windows 10
+   - C) macOS
+   - D) Android  
+   **Answer: A) MS-DOS**
+
+**22. What does multitasking in an operating system refer to?**
+   - A) Running multiple tasks at the same time
+   - B) Running a single task
+   - C) Running tasks in a sequence
+   - D) Running multiple tasks one after another  
+   **Answer: A) Running multiple tasks at the same time**
+
+**23. What does the acronym FAT stand for in computing?**
+   - A) File Allocation Table
+   - B) File Access Table
+   - C) File Assignment Table
+   - D) File Association Table  
+   **Answer: A) File Allocation Table**
+
+**24. What is the primary function of the command interpreter?**
+   - A) Execute user commands
+   - B) Manage system resources
+   - C) Provide network services
+   - D) Handle user authentication  
+   **Answer: A) Execute user commands**
+
+**25. Which of the following is an example of an open-source operating system?**
+   - A) Windows
+   - B) macOS
+   - C) Linux
+   - D) iOS  
+   **Answer: C) Linux**
+
+**26. What does GUI stand for in computing?**
+   - A) Graphical User Interface
+   - B) General User Interface
+   - C) Graphical Unified Interface
+   - D) General Unified Interface  
+   **Answer: A) Graphical User Interface**
+
+**27. Which of the following is a characteristic of a real-time operating system (RTOS)?**
+   - A) Task completion within a fixed time
+   - B) Non-deterministic task completion
+   - C) Batch processing
+   - D) None of the above  
+   **Answer: A) Task completion within a fixed time**
+
+**28. Which of the following is not a type of file system?**
+   - A) NTFS
+   - B) FAT32
+   - C) ext4
+   - D) HTTP  
+   **Answer: D) HTTP**
+
+**29. What does the term 'spooling' refer to in operating systems?**
+   - A) Overlapping of input/output operations with computation
+   - B) Swapping of processes between main memory and disk
+   - C) Splitting a task into multiple parts
+   - D) Storing processes temporarily  
+   **Answer: A) Overlapping of input/output operations with computation**
+
+**30. What is a multi-user operating system?**
+   - A) An OS that supports multiple users simultaneously
+   - B) An OS that supports a single user
+   - C) An OS that supports multiple tasks for a single user
+   - D) None of the above  
+   **Answer: A) An OS that supports multiple users simultaneously**
+
+**31. Which of the following is used to secure a computer network?**
+   - A) Firewall
+   - B) Word processor
+   - C) Database software
+   - D) Spreadsheet  
+   **Answer: A) Firewall**
+
+**32. What is the main function of an operating system's task scheduler?**
+   - A) Manage the execution of processes
+   - B) Provide a user interface
+   - C) Manage system memory
+   - D) Manage input/output operations  
+   **Answer: A) Manage the execution of processes**
+
+**33. Which of the following is a characteristic of a distributed operating system?**
+   - A) Multiple computers connected to perform a task
+   - B) Single computer managing multiple tasks
+   - C) Real-time processing
+   - D) None of the above  
+   **Answer: A) Multiple computers connected to perform a task**
+
+**34. What is the function of a device manager in an operating system?**
+   - A) Manage hardware devices
+   - B) Manage file systems
+   - C) Manage user accounts
+   - D) Manage software applications  
+   **Answer: A) Manage hardware devices**
+
+**35. Which of the following is a type of user interface?**
+   - A) Command-line interface
+   - B) Graphical user interface
+   - C) Menu-driven interface
+   - D) All of the above  
+   **Answer: D) All of the above**
+
+**36. Which of the following file systems is used by macOS?**
+   - A) NTFS
+   - B) FAT32
+   - C) APFS
+   - D) ext4  
+   **Answer: C) APFS**
+
+**37. What is the primary purpose of a utility program in an operating system?**
+   - A) Perform maintenance tasks
+   - B) Manage processes
+   - C) Provide a user interface
+   - D) Execute application software  
+   **Answer: A) Perform maintenance tasks**
+
+**38. What is the main difference between a kernel and a shell in an operating system?**
+   - A) Kernel manages system resources; Shell provides an interface for users
+   - B) Shell manages system resources; Kernel provides an interface for users
+   - C) Both manage system resources
+   - D) Both provide an interface for users  
+   **Answer: A) Kernel manages system resources; Shell provides an interface for users**
+
+**39. Which of the following is a type of mobile operating system?**
+   - A) Android
+   - B) Windows 10
+   - C) macOS
+   - D) Linux  
+   **Answer: A) Android**
+
+**40. What does the term 'process' refer to in an operating system?**
+   - A) A program in execution
+   - B) A static program file
+   - C) A system call
+   - D) An input/output operation  
+   **Answer: A) A program in execution
+
+**
+
+**41. What is the role of the memory manager in an operating system?**
+   - A) Allocate and deallocate memory to processes
+   - B) Manage the CPU
+   - C) Manage input/output devices
+   - D) Provide a user interface  
+   **Answer: A) Allocate and deallocate memory to processes**
+
+**42. What is the primary function of a database management system (DBMS)?**
+   - A) Manage data in databases
+   - B) Provide a user interface
+   - C) Manage system memory
+   - D) Manage hardware devices  
+   **Answer: A) Manage data in databases**
+
+**43. What does the term 'booting' refer to in an operating system?**
+   - A) The process of starting a computer and loading the OS
+   - B) The process of shutting down a computer
+   - C) The process of installing software
+   - D) The process of logging into an OS  
+   **Answer: A) The process of starting a computer and loading the OS**
+
+**44. Which of the following is not an example of system software?**
+   - A) Operating system
+   - B) Device drivers
+   - C) Word processor
+   - D) Utility programs  
+   **Answer: C) Word processor**
+
+**45. What is the function of the process scheduler in an operating system?**
+   - A) Schedule processes for execution
+   - B) Manage memory
+   - C) Manage file systems
+   - D) Manage input/output devices  
+   **Answer: A) Schedule processes for execution**
+
+**46. Which of the following is a file management utility?**
+   - A) File Explorer
+   - B) Task Manager
+   - C) Device Manager
+   - D) Control Panel  
+   **Answer: A) File Explorer**
+
+**47. What does 'preemptive multitasking' mean in an operating system?**
+   - A) The OS decides when to switch between tasks
+   - B) The user decides when to switch between tasks
+   - C) Tasks are run sequentially
+   - D) Tasks are run in parallel without switching  
+   **Answer: A) The OS decides when to switch between tasks**
+
+**48. Which of the following is a feature of a multi-threaded operating system?**
+   - A) Multiple threads within a single process can run concurrently
+   - B) Only one thread can run at a time
+   - C) Threads must run in sequence
+   - D) None of the above  
+   **Answer: A) Multiple threads within a single process can run concurrently**
+
+**49. Which of the following is used to manage files and folders in an operating system?**
+   - A) File system
+   - B) Process manager
+   - C) Memory manager
+   - D) Device manager  
+   **Answer: A) File system**
+
+**50. What is the function of the BIOS in a computer system?**
+   - A) Initialize and test hardware components
+   - B) Manage operating system processes
+   - C) Provide a graphical user interface
+   - D) Manage system memory  
+   **Answer: A) Initialize and test hardware components**
